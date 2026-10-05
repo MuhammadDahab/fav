@@ -1,0 +1,1850 @@
+{
+  "AI Tools": [
+    {
+      "name": "Google Flow – AI Video Studio",
+      "url": "https://flow.google.com/",
+      "sub": ""
+    },
+    {
+      "name": "Manus – AI Agent",
+      "url": "https://manus.im/",
+      "sub": ""
+    },
+    {
+      "name": "TopAI.tools – AI Tools Directory",
+      "url": "https://topai.tools/",
+      "sub": ""
+    },
+    {
+      "name": "Perplexity – AI Search",
+      "url": "https://www.perplexity.ai/",
+      "sub": ""
+    },
+    {
+      "name": "PlayAI – Voice AI",
+      "url": "https://play.ai/",
+      "sub": ""
+    },
+    {
+      "name": "Focal – AI Video Maker",
+      "url": "https://focalml.com/",
+      "sub": ""
+    },
+    {
+      "name": "Midjourney – Explore",
+      "url": "https://www.midjourney.com/explore",
+      "sub": ""
+    },
+    {
+      "name": "GitHub Copilot – Chat",
+      "url": "https://github.com/copilot",
+      "sub": ""
+    },
+    {
+      "name": "Narakeet – AI Voiceover",
+      "url": "https://www.narakeet.com/app/text-to-audio/",
+      "sub": ""
+    },
+    {
+      "name": "Genspark – AI Workspace",
+      "url": "https://www.genspark.ai/",
+      "sub": ""
+    },
+    {
+      "name": "Manus – AI Agent App",
+      "url": "https://manus.im/app",
+      "sub": ""
+    },
+    {
+      "name": "Kortix Suna – AI Agent",
+      "url": "https://www.suna.so/",
+      "sub": ""
+    },
+    {
+      "name": "Julius AI – Data Analyst",
+      "url": "https://julius.ai/",
+      "sub": ""
+    },
+    {
+      "name": "Claude Code – CLI Docs",
+      "url": "https://code.claude.com/docs/en/cli-reference",
+      "sub": ""
+    },
+    {
+      "name": "ChatGPT – Use Cases",
+      "url": "https://learn.chatgpt.com/use-cases",
+      "sub": ""
+    },
+    {
+      "name": "ChatGPT – My GPTs",
+      "url": "https://chatgpt.com/gpts/mine",
+      "sub": ""
+    },
+    {
+      "name": "Google Gemini – AI Chat",
+      "url": "https://gemini.google.com/app",
+      "sub": ""
+    },
+    {
+      "name": "PlayAI – Voice Library",
+      "url": "https://app.play.ht/voices/voice-library?search=ar&language=arabic",
+      "sub": ""
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com/",
+      "sub": ""
+    },
+    {
+      "name": "Qwen Image – Hugging Face Demo",
+      "url": "https://huggingface.co/spaces/Qwen/Qwen-Image",
+      "sub": ""
+    },
+    {
+      "name": "Qwen Image – Model Page",
+      "url": "https://huggingface.co/Qwen/Qwen-Image",
+      "sub": ""
+    },
+    {
+      "name": "Claude Code – Prompt Library",
+      "url": "https://code.claude.com/docs/en/prompt-library",
+      "sub": ""
+    },
+    {
+      "name": "Bannerbear – AI Face Detect",
+      "url": "https://www.bannerbear.com/demos/face-detect-ai/",
+      "sub": ""
+    },
+    {
+      "name": "QuillBot – Paraphraser",
+      "url": "https://quillbot.com/",
+      "sub": ""
+    },
+    {
+      "name": "Writesonic – AI Writer",
+      "url": "https://writesonic.com/",
+      "sub": ""
+    }
+  ],
+  "Automation": [
+    {
+      "name": "YouTube – WhatsApp + AI (Arabic)",
+      "url": "https://www.youtube.com/watch?v=r8HVqiMDhSU",
+      "sub": ""
+    },
+    {
+      "name": "Flowise – AI Agent Builder",
+      "url": "https://flowiseai.com/",
+      "sub": ""
+    },
+    {
+      "name": "n8n – Official Site",
+      "url": "https://n8n.io/",
+      "sub": ""
+    },
+    {
+      "name": "n8n – AI Agents",
+      "url": "https://n8n.io/ai-agents/",
+      "sub": ""
+    },
+    {
+      "name": "n8n – Install Docs",
+      "url": "https://docs.n8n.io/choose-n8n/",
+      "sub": ""
+    },
+    {
+      "name": "MCP – Build a Server",
+      "url": "https://modelcontextprotocol.io/quickstart/server",
+      "sub": ""
+    },
+    {
+      "name": "Gumroad – Lukasz B (n8n Templates)",
+      "url": "https://lukaszb.gumroad.com/",
+      "sub": ""
+    },
+    {
+      "name": "n8n – AI Blog to WordPress Workflow",
+      "url": "https://n8n.io/workflows/5159-ai-content-creation-and-auto-wordpress-publishing-with-pexels-api-image-workflow/",
+      "sub": ""
+    },
+    {
+      "name": "n8n – Blog Generation Workflow",
+      "url": "https://n8n.io/workflows/6117-end-to-end-blog-generation-for-wordpress-with-llm-agents-and-image-creation/",
+      "sub": ""
+    },
+    {
+      "name": "Hostinger – Install Ollama on Linux",
+      "url": "https://www.hostinger.com/tutorials/how-to-install-ollama",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – WhatsApp API Setup (Arabic)",
+      "url": "https://www.youtube.com/watch?v=Xb6GnJjqS-4",
+      "sub": ""
+    },
+    {
+      "name": "Udemy – Agentic AI with n8n",
+      "url": "https://www.udemy.com/course/mastering-ai-agentic-engineering-with-n8n/",
+      "sub": ""
+    },
+    {
+      "name": "Apps Script – Gmail Mail Merge",
+      "url": "https://developers.google.com/apps-script/samples/automations/mail-merge",
+      "sub": ""
+    },
+    {
+      "name": "Apps Script – Send Curated Content",
+      "url": "https://developers.google.com/apps-script/samples/automations/content-signup",
+      "sub": ""
+    },
+    {
+      "name": "Auto-Send Emails from Sheets",
+      "url": "https://productivityspot.com/automatically-send-emails-from-google-sheets/",
+      "sub": ""
+    },
+    {
+      "name": "Mailparser – Send from Sheets",
+      "url": "https://mailparser.io/blog/send-emails-from-google-spreadsheet/",
+      "sub": ""
+    },
+    {
+      "name": "n8n – WordPress Blog Generator",
+      "url": "https://n8n.io/workflows/3852-multi-level-wordpress-blog-generator-with-perplexityai-research-and-openai-content/",
+      "sub": ""
+    }
+  ],
+  "Ad Spy & Research": [
+    {
+      "name": "BuiltWith – Site Tech Lookup",
+      "url": "https://builtwith.com/",
+      "sub": ""
+    },
+    {
+      "name": "Facebook – Video Ad Specs",
+      "url": "https://www.facebook.com/business/ads-guide/update/video",
+      "sub": ""
+    },
+    {
+      "name": "AdSpy – Ad Spy Tool",
+      "url": "https://www.adspy.com/",
+      "sub": ""
+    },
+    {
+      "name": "SpySales – Shopify Sales Tracker",
+      "url": "https://www.spysales.com/",
+      "sub": ""
+    },
+    {
+      "name": "Minea – Facebook Ads Spy",
+      "url": "https://app.minea.com/en/ads/facebook?sort_by=-last_seen_date",
+      "sub": ""
+    },
+    {
+      "name": "Ecomhunt – Winning Products",
+      "url": "https://ecomhunt.com/",
+      "sub": ""
+    },
+    {
+      "name": "AdSparo – Ad Spy Tool",
+      "url": "https://adsparo.com/home/index.html",
+      "sub": ""
+    },
+    {
+      "name": "SpyBox – Ecom Spy Tools",
+      "url": "https://spybox.io/",
+      "sub": ""
+    },
+    {
+      "name": "Gethookd – Ad Inspiration",
+      "url": "https://www.gethookd.ai/#pricing",
+      "sub": ""
+    },
+    {
+      "name": "Dropship.io – Product Research",
+      "url": "https://www.dropship.io/",
+      "sub": ""
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/",
+      "sub": ""
+    },
+    {
+      "name": "Douyin – Chinese TikTok",
+      "url": "https://www.douyin.com/",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Subscriptions",
+      "url": "https://www.youtube.com/feed/subscriptions",
+      "sub": ""
+    },
+    {
+      "name": "Facebook Ad Library",
+      "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=EG&media_type=all",
+      "sub": ""
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/",
+      "sub": ""
+    },
+    {
+      "name": "TikTok Top Ads – Worldwide",
+      "url": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?rid=x1uzzdb7tx&period=180",
+      "sub": ""
+    },
+    {
+      "name": "TikTok Top Ads – GCC",
+      "url": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=SA%2CAE%2COM%2CKW%2CQA%2CBH",
+      "sub": ""
+    },
+    {
+      "name": "Facebook – Search",
+      "url": "https://www.facebook.com/search/top/?q=",
+      "sub": ""
+    },
+    {
+      "name": "AliExpress",
+      "url": "https://www.aliexpress.com/",
+      "sub": ""
+    },
+    {
+      "name": "Amazon.com",
+      "url": "https://www.amazon.com/",
+      "sub": ""
+    },
+    {
+      "name": "Dropispy – Ad Spy Tool",
+      "url": "https://dropispy.com/",
+      "sub": ""
+    },
+    {
+      "name": "Keyword Sheeter – Keyword Ideas",
+      "url": "https://keywordsheeter.com/",
+      "sub": ""
+    },
+    {
+      "name": "AnswerThePublic – Search Ideas",
+      "url": "https://answerthepublic.com/",
+      "sub": ""
+    },
+    {
+      "name": "Adheart – Dashboard",
+      "url": "https://adheart.me/en/dashboard",
+      "sub": ""
+    },
+    {
+      "name": "Ouedkniss – Algeria Classifieds",
+      "url": "https://www.ouedkniss.com/",
+      "sub": ""
+    },
+    {
+      "name": "FB Ad Library – Advertiser",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=EG&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=548110821723868",
+      "sub": ""
+    },
+    {
+      "name": "Adheart – Ad Spy Tool",
+      "url": "https://adheart.me/en",
+      "sub": ""
+    },
+    {
+      "name": "Winning Hunter – Product Spy",
+      "url": "https://winninghunter.com/",
+      "sub": ""
+    },
+    {
+      "name": "TikTok Top Ads – Creative Center",
+      "url": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=EG",
+      "sub": ""
+    },
+    {
+      "name": "SocialPeta – Ad Intelligence",
+      "url": "https://socialpeta.com/",
+      "sub": ""
+    },
+    {
+      "name": "AdVault – Ad Spy Service",
+      "url": "https://advaultservices.gumroad.com/",
+      "sub": ""
+    }
+  ],
+  "Creative & Design": [
+    {
+      "name": "Promo – Marketing Calendar",
+      "url": "https://promo.com/planner/my-calendar",
+      "sub": ""
+    },
+    {
+      "name": "Envato Elements – Creative Assets",
+      "url": "https://elements.envato.com/",
+      "sub": ""
+    },
+    {
+      "name": "Canva – Design Tool",
+      "url": "https://www.canva.com/",
+      "sub": ""
+    },
+    {
+      "name": "TikTok Creative Center",
+      "url": "https://ads.tiktok.com/business/creativecenter/pc/en",
+      "sub": ""
+    },
+    {
+      "name": "Midjourney – AI Images",
+      "url": "https://www.midjourney.com/home",
+      "sub": ""
+    },
+    {
+      "name": "Microsoft Designer – AI Design",
+      "url": "https://designer.microsoft.com/",
+      "sub": ""
+    },
+    {
+      "name": "BrandCrowd – Logo Maker",
+      "url": "https://www.brandcrowd.com/s/logo-maker",
+      "sub": ""
+    },
+    {
+      "name": "Looka – Logo & Brand Design",
+      "url": "https://looka.com/",
+      "sub": ""
+    },
+    {
+      "name": "Artlist – Stock Footage",
+      "url": "https://artlist.io/stock-footage",
+      "sub": ""
+    },
+    {
+      "name": "Pond5 – Free Footage",
+      "url": "https://www.pond5.com/free/footage",
+      "sub": ""
+    },
+    {
+      "name": "Pexels – Free Videos",
+      "url": "https://www.pexels.com/search/videos/free%20no%20copyright/",
+      "sub": ""
+    },
+    {
+      "name": "Pixabay – Free Videos",
+      "url": "https://pixabay.com/videos/",
+      "sub": ""
+    },
+    {
+      "name": "Giphy – GIF Maker",
+      "url": "https://giphy.com/create/gifmaker",
+      "sub": ""
+    },
+    {
+      "name": "EZGIF – Video to GIF",
+      "url": "https://ezgif.com/video-to-gif",
+      "sub": ""
+    },
+    {
+      "name": "Noun Project – Icons",
+      "url": "https://thenounproject.com/icons/",
+      "sub": ""
+    },
+    {
+      "name": "Freepik – AI Creative Suite",
+      "url": "https://www.freepik.com/",
+      "sub": ""
+    },
+    {
+      "name": "Brusheezy – Photoshop Brushes",
+      "url": "https://www.brusheezy.com/",
+      "sub": ""
+    },
+    {
+      "name": "Adobe Color – Palettes",
+      "url": "https://color.adobe.com/explore",
+      "sub": ""
+    },
+    {
+      "name": "Noun Project – Icon Search",
+      "url": "https://thenounproject.com/search/icons/?q=Sports+tools&qv=5860491&page=2",
+      "sub": ""
+    },
+    {
+      "name": "Noud – Digital Services",
+      "url": "https://noud.digital/",
+      "sub": ""
+    },
+    {
+      "name": "Clipchamp – Video Editor",
+      "url": "https://clipchamp.com/en/",
+      "sub": ""
+    },
+    {
+      "name": "PNG.is – Find Stock",
+      "url": "https://png.is/tool/findstock",
+      "sub": ""
+    },
+    {
+      "name": "Dreamstime – Stock Photos",
+      "url": "https://www.dreamstime.com/photos-images/steve-jobs.html",
+      "sub": ""
+    },
+    {
+      "name": "Unified Font Object",
+      "url": "https://unifiedfontobject.org/",
+      "sub": ""
+    },
+    {
+      "name": "Fontello – Icon Fonts",
+      "url": "https://fontello.com/",
+      "sub": ""
+    },
+    {
+      "name": "HTML/CSS to Image API",
+      "url": "https://htmlcsstoimage.com/",
+      "sub": ""
+    },
+    {
+      "name": "AlternativeTo – Find Alternatives",
+      "url": "https://alternativeto.net/",
+      "sub": ""
+    }
+  ],
+  "Stores & Marketplaces": [
+    {
+      "name": "Shopflo – Checkout",
+      "url": "https://www.shopflo.com/",
+      "sub": ""
+    },
+    {
+      "name": "YouCan – Account",
+      "url": "https://accounts.youcan.shop/?locale=en",
+      "sub": ""
+    },
+    {
+      "name": "Dropify – Dropshipping Store",
+      "url": "https://dropify.shop/",
+      "sub": ""
+    },
+    {
+      "name": "YouCan – Store Admin",
+      "url": "https://seller-area.youcan.shop/admin",
+      "sub": ""
+    },
+    {
+      "name": "Shopify – Free Trial",
+      "url": "https://www.shopify.com/free-trial",
+      "sub": ""
+    },
+    {
+      "name": "Tidio – Customer Service Chat",
+      "url": "https://www.tidio.com/",
+      "sub": ""
+    },
+    {
+      "name": "xPage – AI Landing Pages",
+      "url": "https://www.xpage.ai/",
+      "sub": ""
+    },
+    {
+      "name": "Shopify Partner – Laila Alfy",
+      "url": "https://www.shopify.com/partners/directory/partner/alfys-co",
+      "sub": ""
+    },
+    {
+      "name": "PushOwl – Shopify Email/Push App",
+      "url": "https://apps.shopify.com/pushowl",
+      "sub": ""
+    },
+    {
+      "name": "Top 20 Shopify Apps 2025",
+      "url": "https://mandasa.in/top-20-shopify-apps-of-2025-to-elevate-customer-engagement-and-data-driven-growth/",
+      "sub": ""
+    },
+    {
+      "name": "Noon – Seller Login",
+      "url": "https://login.noon.partners/en",
+      "sub": ""
+    },
+    {
+      "name": "Jumia – Vendor Center",
+      "url": "https://vendorcenter.jumia.com/sign-in",
+      "sub": ""
+    },
+    {
+      "name": "Amazon Egypt – Start Selling",
+      "url": "https://sell.amazon.eg/",
+      "sub": ""
+    },
+    {
+      "name": "Amazon Seller Central EG – Home",
+      "url": "https://sellercentral.amazon.eg/home",
+      "sub": ""
+    },
+    {
+      "name": "EasyOrders – Arabic Store Platform",
+      "url": "https://app.easy-orders.net/#/login",
+      "sub": ""
+    },
+    {
+      "name": "MyAlice – Customer Support Tools",
+      "url": "https://www.myalice.ai/tools",
+      "sub": ""
+    }
+  ],
+  "COD & Affiliate Offers": [
+    {
+      "name": "COD Network – Affiliate Offers",
+      "url": "https://cod.network/affiliate",
+      "sub": ""
+    },
+    {
+      "name": "CODPartner – COD Offers",
+      "url": "https://app.codpartner.com/",
+      "sub": ""
+    },
+    {
+      "name": "HazarGo – COD Offers (Morocco)",
+      "url": "https://hazargo.ma/",
+      "sub": ""
+    },
+    {
+      "name": "Taager – Egypt Dropshipping",
+      "url": "https://taager.com/eg/",
+      "sub": ""
+    },
+    {
+      "name": "LoftyService – Fulfillment Partner",
+      "url": "https://loftyservice.com/",
+      "sub": ""
+    },
+    {
+      "name": "CodDrop – Seller Dashboard",
+      "url": "https://seller.cod.network/client/dashboard/confirmed",
+      "sub": ""
+    },
+    {
+      "name": "CODPartner – Call Center Login",
+      "url": "https://call.codpartner.com/login",
+      "sub": ""
+    }
+  ],
+  "Shipping & Suppliers": [
+    {
+      "name": "Egypt Post – Track Shipment",
+      "url": "https://egyptpost.gov.eg/ar-eg/home/eservices/track-and-trace/",
+      "sub": ""
+    },
+    {
+      "name": "Egypt Post – Wassalha Shipping",
+      "url": "https://wassalha.egyptpost.org/",
+      "sub": ""
+    },
+    {
+      "name": "Made-in-China – Sea Freight DDP",
+      "url": "https://shipping.en.made-in-china.com/product/lZIahevcbYrT/China-LCL-FCL-Ocean-Sea-Freight-Door-to-Door-DDP-Shipping-From-China-to-USA-Canada-Europe.html",
+      "sub": ""
+    },
+    {
+      "name": "Guide – Choosing Suppliers in China",
+      "url": "https://anafabdulkarem.com/%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%AF%D9%8A%D9%86-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF/",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Dr. Anaf Abdulkarem (Import)",
+      "url": "https://www.youtube.com/@ANAFABDULKAREM",
+      "sub": ""
+    },
+    {
+      "name": "Egypt Post – Gharbia Offices",
+      "url": "https://egpost.info/ar/governorate/gharbeia",
+      "sub": ""
+    },
+    {
+      "name": "1688 – China Wholesale",
+      "url": "https://www.1688.com/",
+      "sub": ""
+    },
+    {
+      "name": "AliExpress Arabic",
+      "url": "https://ar.aliexpress.com/",
+      "sub": ""
+    },
+    {
+      "name": "AliPrice – Image Search Sourcing",
+      "url": "https://www.aliprice.com/",
+      "sub": ""
+    },
+    {
+      "name": "1688 – Important Info",
+      "url": "https://mind.1688.com/default/default/ySKh3jGx2p/index.html?wh_pha=true&wh_pid=3495585",
+      "sub": ""
+    }
+  ],
+  "Banking & Payments": [
+    {
+      "name": "Mercury – US Business Bank",
+      "url": "https://mercury.com/",
+      "sub": ""
+    },
+    {
+      "name": "Wise – Money Transfer",
+      "url": "https://wise.com/",
+      "sub": ""
+    },
+    {
+      "name": "Stripe – Payments",
+      "url": "https://stripe.com/",
+      "sub": ""
+    },
+    {
+      "name": "WorldFirst – Business Payments",
+      "url": "https://www.worldfirst.com/uk/",
+      "sub": ""
+    },
+    {
+      "name": "Tide – UK Business Bank",
+      "url": "https://www.tide.co/",
+      "sub": ""
+    },
+    {
+      "name": "Airwallex – Business Payments",
+      "url": "https://www.airwallex.com/",
+      "sub": ""
+    }
+  ],
+  "Company, Legal & Domains": [
+    {
+      "name": "Spaceship – My Domains",
+      "url": "https://www.spaceship.com/application/domain-list-application/",
+      "sub": ""
+    },
+    {
+      "name": "Wyoming – LLC Business Search",
+      "url": "https://wyobiz.wyo.gov/Business/FilingSearch.aspx",
+      "sub": ""
+    },
+    {
+      "name": "Bizee – Register US LLC",
+      "url": "https://orders.bizee.com/form-order-now.php",
+      "sub": ""
+    },
+    {
+      "name": "DropCatch – Expired Domains",
+      "url": "https://www.dropcatch.com/",
+      "sub": ""
+    },
+    {
+      "name": "Gname – Buy Domains",
+      "url": "https://www.gname.com/",
+      "sub": ""
+    },
+    {
+      "name": "TheITIN – ITIN Client Portal",
+      "url": "https://app.theitin.com/login",
+      "sub": ""
+    },
+    {
+      "name": "IdeaLegal – Legal Services",
+      "url": "https://www.idealegal.com/",
+      "sub": ""
+    },
+    {
+      "name": "Domain.eg – Egyptian Domains",
+      "url": "https://domain.eg/",
+      "sub": ""
+    },
+    {
+      "name": "NameBright – Bulk Domain Search",
+      "url": "https://www.namebright.com/BulkSearch",
+      "sub": ""
+    },
+    {
+      "name": "Namecheap – Login",
+      "url": "https://www.namecheap.com/myaccount/login-signup/",
+      "sub": ""
+    },
+    {
+      "name": "Porkbun – .CO Domains",
+      "url": "https://porkbun.com/tld/co",
+      "sub": ""
+    },
+    {
+      "name": "Icon Offices – UK Serviced Offices",
+      "url": "https://iconoffices.co.uk/index.php",
+      "sub": ""
+    }
+  ],
+  "Hosting & Servers": [
+    {
+      "name": "Netlify – Free Hosting",
+      "url": "https://www.netlify.com/",
+      "sub": ""
+    },
+    {
+      "name": "Webtropia – Servers",
+      "url": "https://www.webtropia.com/",
+      "sub": ""
+    },
+    {
+      "name": "Contabo – VPS",
+      "url": "https://contabo.com/en/",
+      "sub": ""
+    },
+    {
+      "name": "Hetzner – Servers",
+      "url": "https://www.hetzner.com/",
+      "sub": ""
+    },
+    {
+      "name": "CloudCone – VPS",
+      "url": "https://cloudcone.com/",
+      "sub": ""
+    },
+    {
+      "name": "TinyInstaller – Windows on VPS",
+      "url": "https://tinyinstaller.top/",
+      "sub": ""
+    },
+    {
+      "name": "DigitalDron – Windows on VPS",
+      "url": "https://digitaldron.com/?s=windows&post_type=product",
+      "sub": ""
+    },
+    {
+      "name": "Dat Nguyen – Windows Install Files",
+      "url": "https://datnguyentv.com/share-file-windows-install-vps-linode/",
+      "sub": ""
+    },
+    {
+      "name": "Time4VPS – Cheap VPS",
+      "url": "https://www.time4vps.com/",
+      "sub": ""
+    },
+    {
+      "name": "SiteGround – My Websites",
+      "url": "https://my.siteground.com/websites/list",
+      "sub": ""
+    },
+    {
+      "name": "Top 10 Web Hosting (2021)",
+      "url": "https://web-hosting.thetop10sites.com/top-web-hosting-intl.html",
+      "sub": ""
+    },
+    {
+      "name": "Adam Enfroy – Best Web Hosting 2021",
+      "url": "https://www.adamenfroy.com/best-web-hosting-services",
+      "sub": ""
+    },
+    {
+      "name": "50Webs – Free Hosting",
+      "url": "https://www.50webs.com/",
+      "sub": ""
+    },
+    {
+      "name": "000webhost – Free Hosting",
+      "url": "https://www.000webhost.com/",
+      "sub": ""
+    },
+    {
+      "name": "InfinityFree – Free Hosting",
+      "url": "https://infinityfree.net/",
+      "sub": ""
+    },
+    {
+      "name": "Hetzner – Dedicated Servers",
+      "url": "https://www.hetzner.com/dedicated-rootserver",
+      "sub": ""
+    },
+    {
+      "name": "CloudPanel – Hetzner Install Docs",
+      "url": "https://www.cloudpanel.io/docs/v2/getting-started/hetzner-cloud/installation/installer/",
+      "sub": ""
+    }
+  ],
+  "Web Dev & WordPress": [
+    {
+      "name": "BdThemes – WordPress Themes",
+      "url": "https://store.bdthemes.com/",
+      "sub": ""
+    },
+    {
+      "name": "Pee-Aye – Divi Plugins",
+      "url": "https://www.peeayecreative.com/product-category/divi-plugins/",
+      "sub": ""
+    },
+    {
+      "name": "Elegant Themes – Members Login",
+      "url": "https://www.elegantthemes.com/members-area/login/",
+      "sub": ""
+    },
+    {
+      "name": "CodeCanyon – Plugins & Scripts",
+      "url": "https://codecanyon.net/",
+      "sub": ""
+    },
+    {
+      "name": "Elegant Themes – Marketplace",
+      "url": "https://www.elegantthemes.com/members-area/marketplace/",
+      "sub": ""
+    },
+    {
+      "name": "CartFlows – Pricing",
+      "url": "https://cartflows.com/pricing-monthly/",
+      "sub": ""
+    },
+    {
+      "name": "WP Manage Ninja – Account",
+      "url": "https://wpmanageninja.com/account/dashboard/#/",
+      "sub": ""
+    },
+    {
+      "name": "Bubble – No-code App Builder",
+      "url": "https://bubble.io/",
+      "sub": ""
+    },
+    {
+      "name": "JSON Editor Online",
+      "url": "https://jsoneditoronline.org/",
+      "sub": ""
+    },
+    {
+      "name": "JSON.org – Reference",
+      "url": "https://www.json.org/json-en.html",
+      "sub": ""
+    },
+    {
+      "name": "JSON Formatter",
+      "url": "https://jsonformatter.org/",
+      "sub": ""
+    },
+    {
+      "name": "Privacy Policy Generator",
+      "url": "https://www.privacypolicygenerator.info/",
+      "sub": ""
+    },
+    {
+      "name": "TermsFeed – Terms Generator",
+      "url": "https://app.termsfeed.com/wizard",
+      "sub": ""
+    },
+    {
+      "name": "ReloadThis – WP Plugin",
+      "url": "http://reloadthis.valvepress.com/",
+      "sub": ""
+    },
+    {
+      "name": "WPBeginner – Must-Have Plugins",
+      "url": "https://www.wpbeginner.com/blueprint/",
+      "sub": ""
+    },
+    {
+      "name": "FreePrivacyPolicy – Generator",
+      "url": "https://app.freeprivacypolicy.com/wizard/privacy-policy#step-3",
+      "sub": ""
+    },
+    {
+      "name": "SociallyViral – WP Theme",
+      "url": "https://www.jojo-themes.net/sociallyviral-viral-wordpress-blog-theme/",
+      "sub": ""
+    },
+    {
+      "name": "Perfmatters – Pricing",
+      "url": "https://perfmatters.io/pricing/",
+      "sub": ""
+    },
+    {
+      "name": "WP Robot – Auto-Post Plugin",
+      "url": "https://wprobot.net/order/",
+      "sub": ""
+    },
+    {
+      "name": "Deberoo – Landing Pages",
+      "url": "https://deberoo.com/",
+      "sub": ""
+    },
+    {
+      "name": "BrowserStack Live",
+      "url": "https://live.browserstack.com/",
+      "sub": ""
+    },
+    {
+      "name": "Sauce Labs – Device Testing",
+      "url": "https://saucelabs.com/",
+      "sub": ""
+    },
+    {
+      "name": "Bitbar – Device Testing",
+      "url": "https://bitbar.com/",
+      "sub": ""
+    },
+    {
+      "name": "Kobiton – Devices",
+      "url": "https://portal.kobiton.com/devices",
+      "sub": ""
+    },
+    {
+      "name": "Code Helper – WP Site Info",
+      "url": "https://www.code-helper.com/answers/wordpress-get-site-title",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "IsItWP – Bloginfo Shortcode",
+      "url": "https://www.isitwp.com/bloginfo-shortcode/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "Cloudways – PHP Contact Form",
+      "url": "https://www.cloudways.com/blog/custom-php-mysql-contact-form/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "CSS – Center a Button",
+      "url": "https://sebhastian.com/css-center-button/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "CodeShack – PHP Contact Page",
+      "url": "https://codeshack.io/how-to-create-contact-page-php/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – Apache Allow Files",
+      "url": "https://stackoverflow.com/questions/19617351/allowing-only-certain-files-to-view-by-htaccess",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – .htaccess PHP",
+      "url": "https://stackoverflow.com/questions/25219125/htaccess-how-to-allow-php-execution-only-in-one-directory-security-questions",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "GeeksforGeeks – .htaccess",
+      "url": "https://www.geeksforgeeks.org/what-is-htaccess-file-in-php/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "DreamHost – URL Redirects",
+      "url": "https://help.dreamhost.com/hc/en-us/articles/215747748-How-can-I-redirect-and-rewrite-my-URLs-with-an-htaccess-file-",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – WP Mail Contact Form",
+      "url": "https://stackoverflow.com/questions/35771542/wordpress-php-mail-send-contact-form-to-admin-email",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "WP StackExchange – get_bloginfo",
+      "url": "https://wordpress.stackexchange.com/questions/311623/how-can-i-use-get-bloginfoadmin-email-in-a-custom-php-file",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – PHP Image Variable",
+      "url": "https://stackoverflow.com/questions/26765588/php-variable-not-displaying-image-that-uses-bloginfotemplate-directory",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "WP StackExchange – .htaccess via Function",
+      "url": "https://wordpress.stackexchange.com/questions/36233/how-to-add-htaccess-code-through-a-function",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "ClassicPress – save_mod_rewrite_rules",
+      "url": "https://docs.classicpress.net/reference/functions/save_mod_rewrite_rules/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "Spatie – Open Source",
+      "url": "https://spatie.be/open-source?search=&sort=-downloads",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "WPDevDesign – Cookie Consent Bar",
+      "url": "https://wpdevdesign.com/how-to-set-up-a-cookie-consent-bar-in-wordpress/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "GitHub – GlowCookies",
+      "url": "https://github.com/manucaralmo/GlowCookies",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "WebsitePolicies – Cookie Banner",
+      "url": "https://www.websitepolicies.com/cookie-consent-banner-generator",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "Bootstrap Cookie Alert",
+      "url": "https://wruczek.github.io/Bootstrap-Cookie-Alert/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "Traffic Automator – WP Plugin",
+      "url": "https://deandev.com/portfolio/ut-enim-ad",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – Eclipse Cursor Keys",
+      "url": "https://stackoverflow.com/questions/26306254/eclipse-move-the-cursor-left-right-up-down-without-using-arrow-keys",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – Faster Arrow Keys",
+      "url": "https://stackoverflow.com/questions/45509922/is-there-a-faster-alternative-to-using-the-arrow-keys",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "Chrome Keyboard Shortcuts",
+      "url": "https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "Elzero – HTML Forms (Select)",
+      "url": "https://elzero.org/html-form-part7-select-and-textarea/",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – querySelector",
+      "url": "https://stackoverflow.com/questions/15148659/how-can-i-use-queryselector-on-to-pick-an-input-element-by-name",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – onClick/onSelect",
+      "url": "https://stackoverflow.com/questions/3487263/how-to-use-onclick-or-onselect-on-option-tag-in-a-jsp-page",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – 2 Functions onChange",
+      "url": "https://stackoverflow.com/questions/35435611/call-2-functions-within-onchange-event",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "JavaTpoint – Select All Checkboxes",
+      "url": "https://www.javatpoint.com/how-to-select-all-checkboxes-using-javascript",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – JS Checkbox",
+      "url": "https://stackoverflow.com/questions/70973064/how-to-escape-js-ban-to-checked-for-only-specific-function",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "JS – Remove First Word",
+      "url": "https://bobbyhadz.com/blog/javascript-remove-first-word-from-string",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "StackOverflow – Truncate Sentence",
+      "url": "https://stackoverflow.com/questions/7374758/truncate-sentence-to-a-certain-number-of-words",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "CodeGrepper – Truncate Characters",
+      "url": "https://www.codegrepper.com/code-examples/javascript/how+to+truncate+characters+in+javascript",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "W3Resource – Truncate String",
+      "url": "https://www.w3resource.com/javascript-exercises/javascript-string-exercise-24.php#h_one",
+      "sub": "Code Q&A"
+    },
+    {
+      "name": "Raw HTML – WP Plugin",
+      "url": "https://w-shadow.com/blog/2007/12/13/raw-html-in-wordpress/",
+      "sub": "WP Automatic"
+    },
+    {
+      "name": "ValvePress – WP Plugins",
+      "url": "http://valvepress.com/",
+      "sub": "WP Automatic"
+    },
+    {
+      "name": "WordStream – Online Ads",
+      "url": "https://www.wordstream.com/",
+      "sub": "WP Automatic"
+    },
+    {
+      "name": "ValvePress – Post From Links",
+      "url": "http://valvepress.com/how-to-post-from-specific-links-to-wordpress-automatically/",
+      "sub": "WP Automatic"
+    },
+    {
+      "name": "ValvePress – Cron Job Guide",
+      "url": "http://valvepress.com/how-wordpress-automatic-cron-job-works-and-how-to-control-when-posts-get-posted/",
+      "sub": "WP Automatic"
+    },
+    {
+      "name": "ValvePress – Permalink Change",
+      "url": "http://valvepress.com/download-wordpress-automatic-permalink-changer/",
+      "sub": "WP Automatic"
+    },
+    {
+      "name": "ValvePress – Custom Fields",
+      "url": "http://valvepress.com/how-to-automatically-set-custom-fields-for-wordpress-posts/",
+      "sub": "WP Automatic"
+    },
+    {
+      "name": "Broken Link Checker – WP Plugin",
+      "url": "https://wordpress.org/plugins/broken-link-checker/",
+      "sub": "WP Automatic"
+    }
+  ],
+  "SEO & Blogging": [
+    {
+      "name": "Feedspot – RSS Reader",
+      "url": "https://www.feedspot.com/",
+      "sub": ""
+    },
+    {
+      "name": "CheckPageRank – Rank",
+      "url": "https://checkpagerank.net/",
+      "sub": ""
+    },
+    {
+      "name": "SmallSEOTools",
+      "url": "https://smallseotools.com/",
+      "sub": ""
+    },
+    {
+      "name": "PrePostSEO – Article Rewriter",
+      "url": "https://www.prepostseo.com/article-rewriter",
+      "sub": ""
+    },
+    {
+      "name": "MonsterInsights – Add GA Property",
+      "url": "https://www.monsterinsights.com/how-to-add-a-property-in-google-analytics/",
+      "sub": ""
+    },
+    {
+      "name": "PageSpeed Insights",
+      "url": "https://developers.google.com/speed/pagespeed/insights/",
+      "sub": ""
+    },
+    {
+      "name": "Kinsta – Amazon Affiliate Guide",
+      "url": "https://kinsta.com/affiliate-academy/amazon-affiliate-website/",
+      "sub": ""
+    },
+    {
+      "name": "Google Developers – Grow",
+      "url": "https://developers.google.com/products/grow",
+      "sub": ""
+    },
+    {
+      "name": "ProBlogger – Blog Tips",
+      "url": "https://problogger.com/",
+      "sub": ""
+    },
+    {
+      "name": "RSS.app – Webpage to RSS",
+      "url": "https://rss.app/new-rss-feed/webpage-to-rss",
+      "sub": ""
+    },
+    {
+      "name": "WordCandy – Blog",
+      "url": "https://wordcandy.co/",
+      "sub": ""
+    },
+    {
+      "name": "Elegant Themes – Black Hat SEO",
+      "url": "https://www.elegantthemes.com/blog/wordpress/black-hat-seo-techniques-tactics",
+      "sub": ""
+    },
+    {
+      "name": "Feedly – RSS Reader",
+      "url": "https://feedly.com/",
+      "sub": ""
+    },
+    {
+      "name": "Sneeit – Blogger Contact Form",
+      "url": "https://sneeit.com/official-widget-of-contact-form-for-blogger-blogspot/",
+      "sub": ""
+    },
+    {
+      "name": "Follow.net – Competitor Intel",
+      "url": "https://follow.net/",
+      "sub": ""
+    },
+    {
+      "name": "CheckPageRank – Check",
+      "url": "https://checkpagerank.net/check-page-rank.php",
+      "sub": ""
+    },
+    {
+      "name": "ShareThis – Share Buttons",
+      "url": "https://sharethis.com/",
+      "sub": ""
+    },
+    {
+      "name": "SpyFu vs SEMrush",
+      "url": "https://www.webmonkey.com/spyfu-vs-semrush/",
+      "sub": ""
+    }
+  ],
+  "AdSense & Monetization": [
+    {
+      "name": "Guide – Register AdSense Account",
+      "url": "https://elbertahigh.com/tips-for-how-to-register-google-adsense-account.html",
+      "sub": ""
+    },
+    {
+      "name": "Outbrain – Best Affiliate Programs",
+      "url": "https://www.outbrain.com/blog/affiliate-programs/",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – AdSense Approval Tips",
+      "url": "https://www.youtube.com/watch?v=vrFvdYIYgck",
+      "sub": ""
+    }
+  ],
+  "Learning & Courses": [
+    {
+      "name": "YouTube – Hossamudin ePreneurs",
+      "url": "https://www.youtube.com/@ePreneurs/playlists",
+      "sub": ""
+    },
+    {
+      "name": "Skool – E-Commerce For All",
+      "url": "https://www.skool.com/e-commerce-for-all",
+      "sub": ""
+    },
+    {
+      "name": "Arab Domain Academy – Levels",
+      "url": "https://arabdomainacademy.com/levels/",
+      "sub": ""
+    },
+    {
+      "name": "Photoshop & Lightroom Course",
+      "url": "https://learn.ahmedsaeedyard.com/bundle",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Irresistible Video Ads",
+      "url": "https://www.youtube.com/watch?v=derHon2nzvw",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Hicham Aitsahel (Media Buyer)",
+      "url": "https://www.youtube.com/@hichameasy/search?query=%D8%B5%D9%81%D8%AD%D8%A9+%D9%87%D8%A8%D9%88%D8%B7",
+      "sub": ""
+    },
+    {
+      "name": "Yanfaa – Next-Gen Design Course",
+      "url": "https://yanfaa.com/eg/single/Next-Gen_Design_With_AI",
+      "sub": ""
+    },
+    {
+      "name": "Tijara Club – Ecom Community",
+      "url": "https://tijara.club/",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Simo Life (Ecom)",
+      "url": "https://www.youtube.com/@SimoLifeCom",
+      "sub": ""
+    },
+    {
+      "name": "Instagram – Anas Aouragh (Ecom)",
+      "url": "https://www.instagram.com/aouragh.anas/reels/",
+      "sub": ""
+    },
+    {
+      "name": "Yanfaa – Course Search",
+      "url": "https://yanfaa.com/eg/search?q=%D8%AF%D8%A7%D9%81%D9%8A%D9%86%D8%B4%D9%8A",
+      "sub": ""
+    },
+    {
+      "name": "Yanfaa – Data-Driven Design Course",
+      "url": "https://yanfaa.com/eg/single/Data-Driven_Decision_By_Using_BI_Tools",
+      "sub": ""
+    },
+    {
+      "name": "Yanfaa – Course",
+      "url": "https://yanfaa.com/eg/single/How_to_build_chatbots_with_ibm_watson_and_google_dialogflow",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Pro B-Roll Filming (Arabic)",
+      "url": "https://www.youtube.com/watch?v=Z_gkSl2zzL0&list=PLZMKiGzKUOt6E2ZOqCbDY7iFAagf3zflF&index=31",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – 7 Video Filming Tips",
+      "url": "https://www.youtube.com/watch?v=I2UHenx5gCQ&list=PLNEDXcpP4drHY0fGcvrRNMAHoUveemgfb",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – AI Video Tools",
+      "url": "https://www.youtube.com/watch?v=LBg3iFLPIWE&list=PLR-BaoMgyc7mDurQBuex7lsPfOGCdkfyh",
+      "sub": ""
+    },
+    {
+      "name": "TikTok – Getatonline (Learn Videos)",
+      "url": "https://www.tiktok.com/@getatonline",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Make Money on TikTok",
+      "url": "https://www.youtube.com/watch?v=Vj00QJpY4Yo",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Full TikTok Ads Course",
+      "url": "https://www.youtube.com/watch?v=zktQAg14wdA",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Full Facebook Ads Course",
+      "url": "https://www.youtube.com/watch?v=3Vtjjx6b6xg&t=4961s",
+      "sub": ""
+    },
+    {
+      "name": "Viral Ecom Adz – Toolbox",
+      "url": "https://viralecomadz.com/pages/toolbox",
+      "sub": ""
+    },
+    {
+      "name": "Instagram – benmouad.ai (AI Tips)",
+      "url": "https://www.instagram.com/benmouad.ai/",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Premiere Pro Course (Arabic)",
+      "url": "https://www.youtube.com/watch?v=LEqgRPA0U3Y&list=PLg9ps5Gu0MiDSuyZDiQycCJdjTiWNPjxI",
+      "sub": ""
+    },
+    {
+      "name": "Arabic.tech – Binary & Data Lesson",
+      "url": "https://arabic.tech/learn/course/43/lesson/14912",
+      "sub": ""
+    },
+    {
+      "name": "Martin Fowler – Software Articles",
+      "url": "https://martinfowler.com/",
+      "sub": ""
+    },
+    {
+      "name": "FBA Formula – Community Feed",
+      "url": "https://fba-formula.circle.so/feed",
+      "sub": ""
+    },
+    {
+      "name": "Codecademy – HTML/CSS Course",
+      "url": "https://www.codecademy.com/learn/paths/learn-how-to-build-websites",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Google Tag Manager Tutorial",
+      "url": "https://www.youtube.com/watch?v=wVBqNDH5kNQ",
+      "sub": ""
+    },
+    {
+      "name": "TechSoup – How-Tos",
+      "url": "https://www.techsoup.org/support/articles-and-how-tos",
+      "sub": ""
+    },
+    {
+      "name": "DigitalOcean – Linux Command Line",
+      "url": "https://www.digitalocean.com/community/tutorials/a-linux-command-line-primer",
+      "sub": ""
+    },
+    {
+      "name": "Packt – Firefox in Docker",
+      "url": "https://subscription.packtpub.com/book/virtualization-and-cloud/9781783984862/3/ch03lvl1sec42/accessing-firefox-from-a-container-a-dockerfile-example",
+      "sub": ""
+    },
+    {
+      "name": "Booksc – Book",
+      "url": "https://booksc.org/book/74314041/b42846",
+      "sub": ""
+    },
+    {
+      "name": "DigitalOcean – VNC on Ubuntu",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-20-04",
+      "sub": ""
+    },
+    {
+      "name": "Termux Wiki – Packages",
+      "url": "https://wiki.termux.com/wiki/Package_Management",
+      "sub": ""
+    },
+    {
+      "name": "Afkary Academy – Blog",
+      "url": "http://afkary101.blogspot.com/",
+      "sub": ""
+    },
+    {
+      "name": "Cheatography – Linux Commands",
+      "url": "https://cheatography.com/davechild/cheat-sheets/linux-command-line/",
+      "sub": ""
+    },
+    {
+      "name": "Geekflare – Command Cheat Sheets",
+      "url": "https://geekflare.com/command-line-cheat-sheets/",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Ecommerce Lecture (Algeria)",
+      "url": "https://www.youtube.com/playlist?list=PLXUJko6NWM8dSATxHxLQax-KO5epSWuZS",
+      "sub": ""
+    },
+    {
+      "name": "Yanfaa – Photography Basics",
+      "url": "https://yanfaa.com/eg/single/Basics-of-photoshop",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "Almentor – Course Search",
+      "url": "https://www.almentor.net/search?q=Premiere",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "Nadrus – Premiere Pro Courses",
+      "url": "https://www.nadrus.com/view-courses?titles=Premiere+Pro",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "YouTube – Premiere Pro Playlist",
+      "url": "https://www.youtube.com/playlist?list=PLBFPAq4FkttqFgYbRi-GnDsGGnInavTmD",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "YouTube – Premiere Pro Full Course",
+      "url": "https://www.youtube.com/playlist?list=PLg9ps5Gu0MiDSuyZDiQycCJdjTiWNPjxI",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "Msaaqat – Premiere Pro Course",
+      "url": "https://www.msaaqat.com/course/521/%D8%AA%D8%B9%D9%84%D9%85-adobe-premiere-pro-cc-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "YouTube – Premiere + Adobe Apps",
+      "url": "https://www.youtube.com/playlist?list=PLR_jX7BAD2ueDfjdIDTTgJv0cbvQS0jxV",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "TeraCourses – Free Premiere Courses",
+      "url": "https://teracourses.com/ar/courses/learn-adobe-premiere-pro",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "YouTube – Video Editing with Premiere",
+      "url": "https://www.youtube.com/playlist?list=PLDW3m8U_fDSSaqt6LQ9kiSR0G2PAslVqC",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "YouTube – Premiere Pro Lessons",
+      "url": "https://www.youtube.com/playlist?list=PLkDz55sN6qBROMow4ic7dq9DISROsH7X5",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "Yanfaa – Premiere Pro Course",
+      "url": "https://yanfaa.com/eg/single/Adobe-Premiere",
+      "sub": "Video Editing"
+    },
+    {
+      "name": "YouTube – Premiere Basics",
+      "url": "https://www.youtube.com/@PremiereBasics/videos",
+      "sub": "Video Editing"
+    }
+  ],
+  "Freelancers & Hiring": [
+    {
+      "name": "Codementor – Hire Developers",
+      "url": "https://www.codementor.io/u/dashboard",
+      "sub": ""
+    },
+    {
+      "name": "Mostaql – Arab Freelancers",
+      "url": "https://mostaql.com/",
+      "sub": ""
+    },
+    {
+      "name": "Fiverr – Freelancers",
+      "url": "https://www.fiverr.com/",
+      "sub": ""
+    },
+    {
+      "name": "OnlineJobs.ph – Hire Filipinos",
+      "url": "https://www.onlinejobs.ph/pricing",
+      "sub": ""
+    },
+    {
+      "name": "Mostaql – Hiring Multiple Freelancers",
+      "url": "https://support.mostaql.com/hiring-multiple-freelancers",
+      "sub": ""
+    }
+  ],
+  "Downloads & Utilities": [
+    {
+      "name": "Tikmate – TikTok Downloader",
+      "url": "https://tikmate.online/",
+      "sub": ""
+    },
+    {
+      "name": "Denote – TikTok Ads Downloader",
+      "url": "https://denote.net/tiktok-ads-downloader",
+      "sub": ""
+    },
+    {
+      "name": "yt-dlp – Video Downloader (GitHub)",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "sub": ""
+    },
+    {
+      "name": "HaveIBeenPwned – Password Check",
+      "url": "https://haveibeenpwned.com/Passwords",
+      "sub": ""
+    },
+    {
+      "name": "HaveIBeenPwned – Email Check",
+      "url": "https://haveibeenpwned.com/",
+      "sub": ""
+    },
+    {
+      "name": "Loader.to – YouTube Downloader",
+      "url": "https://en.loader.to/1/1080p-video-downloader.html",
+      "sub": ""
+    },
+    {
+      "name": "SaveFrom – YouTube Downloader",
+      "url": "https://en1.savefrom.net/1-youtube-video-downloader-8jH/",
+      "sub": ""
+    },
+    {
+      "name": "SwissTransfer – Send Large Files",
+      "url": "https://www.swisstransfer.com/en-us",
+      "sub": ""
+    },
+    {
+      "name": "Imgur – Image Hosting",
+      "url": "https://imgur.com/",
+      "sub": ""
+    },
+    {
+      "name": "Ninite – Install Apps",
+      "url": "https://ninite.com/",
+      "sub": ""
+    },
+    {
+      "name": "Microsoft – Add Account (iPhone)",
+      "url": "http://aka.ms/addaccount",
+      "sub": ""
+    },
+    {
+      "name": "TinyWow – Facebook Video Download",
+      "url": "https://tinywow.com/video/from-fb",
+      "sub": ""
+    },
+    {
+      "name": "Google Translate",
+      "url": "https://translate.google.com.eg/",
+      "sub": ""
+    },
+    {
+      "name": "Speechpad – Transcription",
+      "url": "https://www.speechpad.com/",
+      "sub": ""
+    },
+    {
+      "name": "ImgBurn – Disc Burning",
+      "url": "https://www.imgburn.com/index.php?act=download",
+      "sub": ""
+    },
+    {
+      "name": "Lookup-ID – Find Facebook ID",
+      "url": "https://lookup-id.com/",
+      "sub": ""
+    },
+    {
+      "name": "Adobe Acrobat Online",
+      "url": "https://acrobat.adobe.com/",
+      "sub": ""
+    }
+  ],
+  "Equipment to Buy": [
+    {
+      "name": "Yeastar – Business Phone Systems",
+      "url": "https://www.yeastar.com/find-a-distributor/",
+      "sub": ""
+    },
+    {
+      "name": "Comica VM30 – Wireless Mic",
+      "url": "https://www.comica-audio.com/product/Wireless-Shotgun-Microphone-VM30",
+      "sub": ""
+    },
+    {
+      "name": "Shure SM7B – Vocal Mic",
+      "url": "https://www.shure.com/en-US/products/microphones/sm7b?variant=SM7B",
+      "sub": ""
+    },
+    {
+      "name": "Distingo – Rode NT-USB Mic",
+      "url": "https://distingomusicstores.com/product/rode-nt-usb-condenser-microphone/",
+      "sub": ""
+    },
+    {
+      "name": "Amazon.eg – Quntis Monitor Lamp",
+      "url": "https://www.amazon.eg/-/en/Quntis-Monitor-Anti-Blue-Adjustable-Computer/dp/B08DKQ3JG1",
+      "sub": ""
+    }
+  ],
+  "Islamic": [
+    {
+      "name": "Quran – Mushaf (Mumtaz)",
+      "url": "https://qurancomplex.gov.sa/kfgqpc-quran-hafs-mumtaz/",
+      "sub": ""
+    },
+    {
+      "name": "Ibn Baz – Fatwas",
+      "url": "https://binbaz.org.sa/",
+      "sub": ""
+    },
+    {
+      "name": "Raslan – Fatwas",
+      "url": "https://www.rslan.com/",
+      "sub": ""
+    }
+  ],
+  "Other": [
+    {
+      "name": "WhatsApp – Message Formatting Help",
+      "url": "https://faq.whatsapp.com/539178204879377/",
+      "sub": ""
+    },
+    {
+      "name": "Monajat – Islamic Site",
+      "url": "https://monajat.org/",
+      "sub": ""
+    },
+    {
+      "name": "List – African Countries",
+      "url": "https://mawdoo3.com/%D8%B9%D8%AF%D8%AF_%D8%AF%D9%88%D9%84_%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7_%D9%88%D8%A3%D8%B3%D9%85%D8%A7%D8%A4%D9%87%D8%A7",
+      "sub": ""
+    },
+    {
+      "name": "List – Gulf Countries",
+      "url": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC_%D9%88%D9%83%D9%85_%D8%B9%D8%AF%D8%AF%D9%87%D8%A7",
+      "sub": ""
+    },
+    {
+      "name": "Apple",
+      "url": "https://www.apple.com/",
+      "sub": ""
+    },
+    {
+      "name": "Bing",
+      "url": "https://www.bing.com/",
+      "sub": ""
+    },
+    {
+      "name": "Google Egypt",
+      "url": "https://www.google.com.eg/",
+      "sub": ""
+    },
+    {
+      "name": "Yahoo Maktoob",
+      "url": "https://maktoob.yahoo.com/",
+      "sub": ""
+    },
+    {
+      "name": "IBAN – Country Codes",
+      "url": "https://www.iban.com/country-codes",
+      "sub": ""
+    },
+    {
+      "name": "Worcester Telegram – News",
+      "url": "https://www.telegram.com/",
+      "sub": ""
+    },
+    {
+      "name": "Pull&Bear Egypt – Shop",
+      "url": "https://www.pullandbear.com/eg/",
+      "sub": ""
+    },
+    {
+      "name": "Linak – Desk Control App",
+      "url": "https://www.linak.com/products/controls/desk-control-app#downloads",
+      "sub": ""
+    },
+    {
+      "name": "ecoPayz – Cookie Policy (Arabic)",
+      "url": "https://www.ecopayz.com/ar/policies/cookie-policy",
+      "sub": ""
+    },
+    {
+      "name": "Neurohacker Collective",
+      "url": "https://neurohacker.com/",
+      "sub": ""
+    },
+    {
+      "name": "LadyBoss Store",
+      "url": "https://ladyboss.com/store/",
+      "sub": ""
+    },
+    {
+      "name": "Medium – Dogecoin Node Setup",
+      "url": "https://thysniu.medium.com/set-up-dogecoin-full-node-on-ubuntu-22b8f7e3e6dc",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Mine Dogecoin (Arabic)",
+      "url": "https://www.youtube.com/watch?v=yUjc2u1Hdb0",
+      "sub": ""
+    },
+    {
+      "name": "Chalybest",
+      "url": "https://chalybest.com/",
+      "sub": ""
+    },
+    {
+      "name": "Goldtouch – Typing Posture",
+      "url": "https://www.goldtouch.com/proper-typing-posture/",
+      "sub": ""
+    },
+    {
+      "name": "Chessable – Blog",
+      "url": "https://www.chessable.com/blog/",
+      "sub": ""
+    },
+    {
+      "name": "Tekpolis – Cat Breeds Article",
+      "url": "https://www-tekpolis-fr.translate.goog/actualites-france/decouvrez-les-6-meilleures-races-de-chats-pour-vivre-avec-des-enfants-22118295.html?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=ar&_x_tr_pto=wapp",
+      "sub": ""
+    },
+    {
+      "name": "Tekpolis.fr",
+      "url": "https://www.tekpolis.fr/",
+      "sub": ""
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com/webhp",
+      "sub": ""
+    },
+    {
+      "name": "ZType – Typing Game",
+      "url": "https://zty.pe/",
+      "sub": ""
+    },
+    {
+      "name": "Alright Media – Ad Tech",
+      "url": "https://alright.com.br/",
+      "sub": ""
+    },
+    {
+      "name": "Lmofid Club",
+      "url": "https://lmofidclub.com/",
+      "sub": ""
+    },
+    {
+      "name": "Elyosr Sports – Gym Equipment",
+      "url": "https://www.elyosr-sports.com/",
+      "sub": ""
+    },
+    {
+      "name": "YouTube – Best Laser Printer",
+      "url": "https://www.youtube.com/watch?v=4mOGhxInAdk",
+      "sub": ""
+    }
+  ]
+}

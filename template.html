@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Muhammad Dahab — Favorites</title>
+<meta name="description" content="{{TOTAL}} hand-picked tools and resources for e-commerce, ads, AI, web and learning.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap">
+<style>
+:root{
+  --bg:#F4F3EF; --surface:#FFFFFF; --fg:#1B1C1A; --muted:#66675F; --line:#E0DED6;
+  --accent:#C2410C; --accent-soft:#FBE9DF;
+  --display:"Space Grotesk",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121311; --surface:#1A1B19; --fg:#E8E7E1; --muted:#9C9B92; --line:#2B2C29;
+  --accent:#FB8A4C; --accent-soft:#33221A; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121311; --surface:#1A1B19; --fg:#E8E7E1; --muted:#9C9B92; --line:#2B2C29;
+  --accent:#FB8A4C; --accent-soft:#33221A; color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 15px/1.5 var(--body);padding:0 16px 4rem}
+.wrap{max-width:72rem;margin-inline:auto}
+header{padding:3rem 0 1.5rem}
+h1{font:700 clamp(2rem,6vw,3.2rem)/1.05 var(--display);margin:0;letter-spacing:-.02em}
+h1 em{font-style:normal;color:var(--accent)}
+.lede{color:var(--muted);margin:.75rem 0 0;max-width:40rem}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:.75rem 0;border-bottom:1px solid var(--line)}
+input{width:100%;font:500 1rem var(--body);padding:.75rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--fg)}
+input:focus{outline:2px solid var(--accent);outline-offset:1px}
+nav{display:flex;gap:.4rem;overflow-x:auto;padding-top:.6rem;scrollbar-width:thin}
+nav a{flex:none;font:500 .8rem var(--body);color:var(--fg);text-decoration:none;padding:.3rem .65rem;border:1px solid var(--line);border-radius:99px;background:var(--surface)}
+nav a:hover{border-color:var(--accent);color:var(--accent)}
+nav span,h2 span{font-family:var(--mono);color:var(--muted);font-size:.85em}
+section{padding-top:2rem;scroll-margin-top:7.5rem}
+h2{font:700 1.3rem var(--display);margin:0 0 .8rem}
+ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(15.5rem,1fr));gap:.5rem}
+li a{display:flex;gap:.7rem;align-items:flex-start;height:100%;padding:.7rem .8rem;background:var(--surface);border:1px solid var(--line);border-radius:10px;color:inherit;text-decoration:none;transition:border-color .15s,transform .15s}
+li a:hover{border-color:var(--accent);transform:translateY(-1px)}
+li a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+li img{flex:none;margin-top:2px;border-radius:4px}
+.t{display:grid;min-width:0}
+.t b{font-weight:600}
+.t i{font-style:normal;color:var(--muted);font-size:.88rem}
+.t small{font:400 .72rem var(--mono);color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;opacity:.8}
+.empty{color:var(--muted);padding:2rem 0}
+footer{margin-top:3rem;color:var(--muted);font-size:.85rem}
+footer a{color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Muhammad Dahab's <em>favorites</em></h1>
+  <p class="lede">{{TOTAL}} tools and resources I keep coming back to — e-commerce, ads, AI, web, and learning.</p>
+</header>
+<div class="bar">
+  <input id="q" type="search" placeholder="Search {{TOTAL}} links…" aria-label="Search links" autocomplete="off">
+  <nav aria-label="Categories">{{NAV}}</nav>
+</div>
+<main>{{SECTIONS}}<p class="empty" id="empty" hidden>No matches.</p></main>
+<footer>Updated from my browser bookmarks · <a href="https://www.muhammaddahab.com">muhammaddahab.com</a></footer>
+</div>
+<script>
+const q=document.getElementById('q'),items=[...document.querySelectorAll('li')],secs=[...document.querySelectorAll('section')],empty=document.getElementById('empty');
+q.addEventListener('input',()=>{const v=q.value.trim().toLowerCase();let any=false;
+ items.forEach(li=>li.hidden=v&&!li.dataset.q.includes(v));
+ secs.forEach(s=>{const vis=[...s.querySelectorAll('li')].some(li=>!li.hidden);s.hidden=!vis;any=any||vis});
+ empty.hidden=any;});
+</script>
+</body>
+</html>
